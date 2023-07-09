@@ -6,7 +6,7 @@ receiver operating characteristic curves have been studied for the two machine l
 <be>
 
 <b>Contributors : </b>
-- Md.Fahad Arafin : 1520319042
+- Md. Fahad Arafin : 1520319042
 - Md. Faysal Ahmed : 1521094642
 - Porinita Hoque : 1711204042
 
